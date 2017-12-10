@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Api", "Cryptobotnic.Api\Cryptobotnic.Api.csproj", "{B5EC406B-79E8-4DD2-9CAE-FCBC06E7EC8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptobotnic.Api", "Cryptobotnic.Api\Cryptobotnic.Api.csproj", "{B5EC406B-79E8-4DD2-9CAE-FCBC06E7EC8F}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{FE8A0EFE-BB06-48B7-B394-FFF22C95DE0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Coinbase", "Cryptobotnic.Coinbase\Cryptobotnic.Coinbase.csproj", "{BCD7E077-D8AD-4B84-B486-0B10968744E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptobotnic.Coinbase", "Cryptobotnic.Coinbase\Cryptobotnic.Coinbase.csproj", "{BCD7E077-D8AD-4B84-B486-0B10968744E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Coinbase.Test", "Cryptobotnic.Coinbase.Test\Cryptobotnic.Coinbase.Test.csproj", "{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Discord", "..\Cryptobotnic.Discord\Cryptobotnic.Discord.csproj", "{D065F39E-1411-4559-A765-FBD9F539F191}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D065F39E-1411-4559-A765-FBD9F539F191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D065F39E-1411-4559-A765-FBD9F539F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D065F39E-1411-4559-A765-FBD9F539F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D065F39E-1411-4559-A765-FBD9F539F191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
