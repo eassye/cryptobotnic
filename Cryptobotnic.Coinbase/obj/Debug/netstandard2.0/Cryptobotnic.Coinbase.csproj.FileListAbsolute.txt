@@ -1,0 +1,9 @@
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\bin\Debug\netstandard2.0\Cryptobotnic.Coinbase.deps.json
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\bin\Debug\netstandard2.0\Cryptobotnic.Coinbase.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\bin\Debug\netstandard2.0\Cryptobotnic.Coinbase.pdb
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.csprojResolveAssemblyReference.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.csproj.CoreCompileInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.AssemblyInfoInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.AssemblyInfo.cs
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Coinbase\obj\Debug\netstandard2.0\Cryptobotnic.Coinbase.pdb

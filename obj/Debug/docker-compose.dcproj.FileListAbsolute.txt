@@ -1,0 +1,1 @@
+C:\Cryptobotnic\Cryptobotnic.Api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

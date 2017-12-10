@@ -1,0 +1,11 @@
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\bin\Debug\netcoreapp2.0\Cryptobotnic.Api.deps.json
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\bin\Debug\netcoreapp2.0\Cryptobotnic.Api.runtimeconfig.json
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\bin\Debug\netcoreapp2.0\Cryptobotnic.Api.runtimeconfig.dev.json
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\bin\Debug\netcoreapp2.0\Cryptobotnic.Api.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\bin\Debug\netcoreapp2.0\Cryptobotnic.Api.pdb
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.csprojResolveAssemblyReference.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.csproj.CoreCompileInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.AssemblyInfoInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.AssemblyInfo.cs
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Api\obj\Debug\netcoreapp2.0\Cryptobotnic.Api.pdb
