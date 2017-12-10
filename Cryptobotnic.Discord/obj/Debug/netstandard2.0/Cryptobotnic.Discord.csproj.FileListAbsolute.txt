@@ -1,0 +1,9 @@
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\bin\Debug\netstandard2.0\Cryptobotnic.Discord.deps.json
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\bin\Debug\netstandard2.0\Cryptobotnic.Discord.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\bin\Debug\netstandard2.0\Cryptobotnic.Discord.pdb
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.csprojResolveAssemblyReference.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.csproj.CoreCompileInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.AssemblyInfoInputs.cache
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.AssemblyInfo.cs
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.dll
+C:\Cryptobotnic\Cryptobotnic.Api\Cryptobotnic.Discord\obj\Debug\netstandard2.0\Cryptobotnic.Discord.pdb

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptobotnic.Coinbase", "Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Coinbase.Test", "Cryptobotnic.Coinbase.Test\Cryptobotnic.Coinbase.Test.csproj", "{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Discord", "..\Cryptobotnic.Discord\Cryptobotnic.Discord.csproj", "{D065F39E-1411-4559-A765-FBD9F539F191}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobotnic.Discord.Test", "Cryptobotnic.Discord.Test\Cryptobotnic.Discord.Test.csproj", "{5B679A80-82D3-4768-B98E-A77EF994B0EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptobotnic.Discord", "Cryptobotnic.Discord\Cryptobotnic.Discord.csproj", "{D1ED251D-9036-4CE7-9201-B2AA304E7770}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,14 @@ Global
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF56746D-CA8C-4E6C-92E1-C48E147F05A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D065F39E-1411-4559-A765-FBD9F539F191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D065F39E-1411-4559-A765-FBD9F539F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D065F39E-1411-4559-A765-FBD9F539F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D065F39E-1411-4559-A765-FBD9F539F191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B679A80-82D3-4768-B98E-A77EF994B0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B679A80-82D3-4768-B98E-A77EF994B0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B679A80-82D3-4768-B98E-A77EF994B0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B679A80-82D3-4768-B98E-A77EF994B0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1ED251D-9036-4CE7-9201-B2AA304E7770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ED251D-9036-4CE7-9201-B2AA304E7770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ED251D-9036-4CE7-9201-B2AA304E7770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ED251D-9036-4CE7-9201-B2AA304E7770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
